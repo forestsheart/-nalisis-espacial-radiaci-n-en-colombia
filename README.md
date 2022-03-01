@@ -1,6 +1,6 @@
 # Ánalisis espacial radiacion en colombia
 <h4>¿qué encontraras aquí ?</h4>
-Encontraras un analisis exhaustivo del comportamiento de la radiación solar a lo largo del territorio colombiano utilizando tecnicas de geoestadistica, como lo es el ajuste de varios semivariogramas escogiendo la mejor opción, análisis de tendencias espaciales, analisis de isotropia y descripción gráfica, resultados que mostraremos acontinuación, los pasos tecnicos se omiten aquí pero estan bien documentados en el código. 
+Encontraras un analisis exhaustivo del comportamiento de la radiación solar a lo largo del territorio colombiano utilizando tecnicas de geoestadistica, como lo es el ajuste de varios semivariogramas escogiendo la mejor opción, análisis de tendencias espaciales, analisis de isotropia y descripción gráfica, resultados que mostraremos acontinuación, los pasos tecnicos se omiten aquí pero estan bien documentados en el código, tambien encontraras los mapas y los datos para poder replicar los resultados aaquí expuestos. 
 
 <h4>Observaciones</h4>
  119 observaciones de los kilowatts por hora recibidos en cada una de las locaciones   a lo largo del territorio nacional en julio de 2020.. 
